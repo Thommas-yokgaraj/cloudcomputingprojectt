@@ -1,0 +1,928 @@
+p$ cd ~
+administrator@administrator-Lenovo-V130-14IKB:~$ cd home
+bash: cd: home: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~$ cd Home
+bash: cd: Home: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~$ cd DESktop
+bash: cd: DESktop: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~$ cd Desktop
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop$ mkdir cloud_management 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop$ cd cloud_management
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd cloud service 
+bash: cd: too many arguments
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ mkdir cloud_service 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd Cloud_service 
+bash: cd: Cloud_service: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd cloud_service
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir AWS
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir Azure
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir cloudigital
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir GCP
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir alibaba
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir rishi
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir ragav
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir saran
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir sha 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir manoj
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir sanjay
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ mkdir josh
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd AWS
+bash: cd: AWS: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd cloud service 
+bash: cd: too many arguments
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management$ cd cloud_service 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd AWS
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/AWS$ touch cloud practioner.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/AWS$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd Azure 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/Azure$ touch microsoft.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/Azure$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd cloudigital
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/cloudigital$ touch cloud.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/cloudigital$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd GCP
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/GCP$ touch google .txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/GCP$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd alibaba
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/alibaba$ touch company.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/alibaba$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd rishi 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/rishi$ touch cr7.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/rishi$ cd ..
+250  cd Desktop
+  251  mkdir tomlie
+  252  cd project
+  253  cloud_management
+  254  cd cloud_management 
+  255  cloud _service 
+  256  cd cloud_service
+  257  cd thommas 
+  258  touch goodboy.txt
+  259  cd ..
+  260  cd project
+  261  cd cloud_management 
+  262  cloud_service 
+  263  cd cloud_service 
+  264  cat thommas.txt
+  265  cat > thommas.txt 
+  266  cat thommas.txt
+  267  grep "hello" thommas.txt
+  268  cd AWS 
+  269  mkdir amazon 
+  270  cd ..
+  271  cd Azure 
+  272  mkdir microsoft
+  273  cd ..
+  274  cd alibaba
+  275  mkdir cloud company 
+  276  cd ..
+  277  cd rishi 
+  278  mkdir friend1
+  279  cd ..
+  280  cd ragav 
+  281  mkdir friend2
+  282  cd ..
+  283  cd josh 
+  284  mkdir friend3
+  285  cd ..
+  286  cd cloudigital
+  287  cd cloudigital 
+  288  cd GCP
+  289  mkdir google 
+  290  cd ..
+  291  cd manoj 
+  292  mkdir trainer
+  293  cd ..
+  294  cd sanjay
+  295  mkdir friend3 
+  296  cd ..
+  297  cd saran
+  298  mkdir friend4 
+  299  cd ..
+  300  cd sha 
+  301  friend5 
+  302  mkdir friend5 
+  303  cd ..
+  304  cd thommas 
+  305  mkdir myself 
+  306  cd ..
+  307  cd ..\
+  308  vim tom cruse
+  309  nano tom cruse.sh
+  310  ls 
+  311  ll
+  312  ll tom cruse.sh 
+  313  ll tomy.sh
+  314  ll tomy
+  315  chmod +x tomy
+  316  /. tomy
+  317  ./tomy
+  318  ll tomy
+  319  ./tomy
+  320  nano tomy
+  321  ll tomy.sh
+  322  chmod +x tomy.sh
+  323  ./tomy.sh
+  324  ./tomy.sh 
+  325  nano tomy.sh 
+  326  ./tomy.sh 
+  327  nano tomy.sh 
+  328  ./tomy.sh 
+  329  nano tomy.sh 
+  330  ./tomy.sh 
+  331  nano tomy.sh 
+  332  ./tomy.sh 
+  333  
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd ragav
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/ragav$ touch saran.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/ragav$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd ragav
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/ragav$ touch food.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/ragav$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd saran
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/saran$ touch saran.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/saran$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd sha 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sha$ touch AIMLtopper.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sha$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd manoj 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/manoj$ touch cloud trainer.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/manoj$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd sanjay
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sanjay$ touch friend .txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sanjay$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd josh
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/josh$ touch reels.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/josh$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd GCP 
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/GCP$ google.txt
+google.txt: command not found
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/GCP$ touch google.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/GCP$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd sanjay
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sanjay$ touch friend.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/sanjay$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service$ cd AWS
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/AWS$ mv /home/Desktop/cloud_management/cloud_service/AWS/cloud practioner.txt /home/desktop/cloud_management/cloud_service/Azure/microsoft.txt
+mv: target '/home/desktop/cloud_management/cloud_service/Azure/microsoft.txt' is not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/AWS$ mv practioner.txt > Azure microsoft.txt
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/cloud_management/cloud_service/AWS$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd alibaba
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ mv company.txt company.txt
+mv: 'company.txt' and 'company.txt' are the same file
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ cat company.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ cat company.txt company.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ mv company.txt google.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ cloud coc.txt
+Command 'cloud' not found, did you mean:
+  command 'gcloud' from snap google-cloud-cli (503.0.0)
+  command 'gcloud' from snap google-cloud-sdk (503.0.0)
+  command 'icloud' from deb python3-pyicloud (0.10.2-1)
+  command 'hcloud' from deb hcloud-cli (1.13.0-2build2)
+See 'snap info <snapname>' for additional versions.
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ ls
+google.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/alibaba$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ pwd 
+/home/administrator/project/cloud_management
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ ls
+cloud_service
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cd cloud_service 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ls
+alibaba  AWS  Azure  cloudigital  GCP  josh  manoj  ragav  rishi  sanjay  saran  sha
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ touch cloud.config.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ ll cloud.config.txt
+-rw-rw-r-- 1 administrator administrator 0 Dec 16 14:03 cloud.config.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ chmod 755 cloud.config.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ ll cloud.config.txt
+-rwxr-xr-x 1 administrator administrator 0 Dec 16 14:03 cloud.config.txt*
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ touch cloud config.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cd cloud_service
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd cloudigital
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/cloudigital$ cp cloud.config.txt
+cp: missing destination file operand after 'cloud.config.txt'
+Try 'cp --help' for more information.
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/cloudigital$ cp -r cloud.config.txt
+cp: missing destination file operand after 'cloud.config.txt'
+Try 'cp --help' for more information.
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/cloudigital$ cp cloud config.txt cloud.txt
+cp: target 'cloud.txt' is not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/cloudigital$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cp cloud config.txt cloud.txt
+cp: target 'cloud.txt' is not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd cloudigital josh
+bash: cd: too many arguments
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cp cloudigital josh
+cp: -r not specified; omitting directory 'cloudigital'
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cp cloud config.txt > cloudigital "cloud.txt"
+bash: cloudigital: Is a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cp cloud config.txt >  "cloud.txt"
+cp: cannot stat 'cloud': No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cp cloud config.txt cloud.txt
+cp: target 'cloud.txt' is not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ rm azure
+rm: cannot remove 'azure': No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ rm Azure
+rm: cannot remove 'Azure': Is a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ rm -r cloudigital
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ nano script.sh 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cat script.sh
+#!/bin/bash/
+for((i=1;i<=100;i++))do
+echo "file $i.txt"
+done 
+
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ nano script.sh 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./ script.sh 
+bash: ./: Is a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./script.sh
+bash: ./script.sh: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ chmod +x script.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./script.sh
+bash: ./script.sh: /bin/bash/: bad interpreter: Not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ll script.sh
+-rwxrwxr-x 1 administrator administrator 64 Dec 16 14:31 script.sh*
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ chmod 777 script.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./script.sh
+bash: ./script.sh: /bin/bash/: bad interpreter: Not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./script.sh 
+bash: ./script.sh: /bin/bash/: bad interpreter: Not a directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ nano script.sh 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ./script.sh 
+file 1.txt
+file 2.txt
+file 3.txt
+file 4.txt
+file 5.txt
+file 6.txt
+file 7.txt
+file 8.txt
+file 9.txt
+file 10.txt
+file 11.txt
+file 12.txt
+file 13.txt
+file 14.txt
+file 15.txt
+file 16.txt
+file 17.txt
+file 18.txt
+file 19.txt
+file 20.txt
+file 21.txt
+file 22.txt
+file 23.txt
+file 24.txt
+file 25.txt
+file 26.txt
+file 27.txt
+file 28.txt
+file 29.txt
+file 30.txt
+file 31.txt
+file 32.txt
+file 33.txt
+file 34.txt
+file 35.txt
+file 36.txt
+file 37.txt
+file 38.txt
+file 39.txt
+file 40.txt
+file 41.txt
+file 42.txt
+file 43.txt
+file 44.txt
+file 45.txt
+file 46.txt
+file 47.txt
+file 48.txt
+file 49.txt
+file 50.txt
+file 51.txt
+file 52.txt
+file 53.txt
+file 54.txt
+file 55.txt
+file 56.txt
+file 57.txt
+file 58.txt
+file 59.txt
+file 60.txt
+file 61.txt
+file 62.txt
+file 63.txt
+file 64.txt
+file 65.txt
+file 66.txt
+file 67.txt
+file 68.txt
+file 69.txt
+file 70.txt
+file 71.txt
+file 72.txt
+file 73.txt
+file 74.txt
+file 75.txt
+file 76.txt
+file 77.txt
+file 78.txt
+file 79.txt
+file 80.txt
+file 81.txt
+file 82.txt
+file 83.txt
+file 84.txt
+file 85.txt
+file 86.txt
+file 87.txt
+file 88.txt
+file 89.txt
+file 90.txt
+file 91.txt
+file 92.txt
+file 93.txt
+file 94.txt
+file 95.txt
+file 96.txt
+file 97.txt
+file 98.txt
+file 99.txt
+file 100.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ histroy
+histroy: command not found
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ history
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim 
+   73  vim
+   74  vim deepak.txt
+   75  vim
+   76  vim deepak.txt
+   77  cat deepak.txt
+   78  nano deepak.txt
+   79  touch deepak2.txt
+   80  cat deepak2.txt
+   81  cat > deepak.txt
+   82  cat < deepak.txt
+   83  cat > deepak.txt
+   84  cat deepak.txt
+   85  nano deepak.txt
+   86  grep "game" deepak.txt
+   87  nano deepak2.txt
+   88  grep -e "over" -e "pubg" deepak.txt deepak2.txt
+   89  cd Desktop
+   90  sudo chown thommas
+   91  cd /
+   92  sudo useradd thommas
+   93  ls
+   94  cat /etc/passwd
+   95  sudo su thommas
+   96  sudo passwd thommas
+   97  su sha 
+   98  su thommas 
+   99  su thommas
+  100  sudo passwd thommas
+  101  su thommas
+  102  su thommas 
+  103  su thommas
+  104  touch filetom.txt
+  105  cd Desktop
+  106  cd ~
+  107  cd Desktop
+  108  touch filetom.txt
+  109  su thommas
+  110  su thommas 
+  111  sudo passwd thommas 
+  112  su thommas 
+  113  sudo chown filetom.txt
+  114  sudo chown thommas filetom.txt
+  115  sudo chown filetom.txt
+  116  sudo chown thommas 
+  117  sudo useradd thommas
+  118  sudo chown thommas 
+  119  ls
+  120  ll 
+  121  cd ~
+  122  sudo chown thommas filetom.txt
+  123  su thommas
+  124  cd Desktop
+  125  mkdir tom
+  126  touch tommy.txt
+  127  cd Desktop
+  128  touch tommy.txt
+  129  cat > tommy.txt
+  130  su thommas 
+  131  cat > tommy.txt
+  132  su thommas
+  133  sudo chown thommas:thommas tommy.txt
+  134  su thommas
+  135  su thommas 
+  136  sudo userdel thommas -f thommas 
+  137  sudo userdel thommas
+  138  cd ..
+  139  cd /
+  140  sudo userdl thommas
+  141  sudo userdel thommas 
+  142  cd ~
+  143  sudo userdel thommas 
+  144  cat /etc/passwd
+  145  mkdir dir1
+  146  cd desktop
+  147  cd Desktop
+  148  mkdir thommas 
+  149  touch dir2.txt
+  150  cd ..
+  151  cd /
+  152  nano script.sh
+  153  cd ~
+  154  cd Desktop
+  155  nano script.sh
+  156  cat script.sh 
+  157  ./script.sh
+  158  ./script.sh 
+  159  nano script.sh
+  160  ./script.sh
+  161  ./ script.sh 
+  162  cd ..
+  163  ./script.sh
+  164  nano script.sh 
+  165  cd Desktop
+  166  ./script.sh
+  167  chmod +x script.sh 
+  168  ./script.sh 
+  169  nano script.sh 
+  170  ./script.sh 
+  171  nano script.sh 
+  172  ./script.sh 
+  173  nano script.sh 
+  174  ./script.sh 
+  175  nano script.sh 
+  176  ./script.sh 
+  177  nano script.sh 
+  178  ./script.sh 
+  179  nano script1.sh
+  180  ./ script1.sh
+  181  chmod +x script1.sh
+  182  ./script1.sh 
+  183  nano script1.sh
+  184  ./script1.sh 
+  185  nano script1.sh
+  186  ./script1.sh 
+  187  chmod +x script1.sh
+  188  ./script1.sh 
+  189  nano script1.sh
+  190  ./script1.sh 
+  191  nano script1.sh
+  192  ./script1.sh 
+  193  chmod +x script1.sh
+  194  ./script1.sh 
+  195  nano script1.sh
+  196  chmod +x script1.sh
+  197  ./script1.sh 
+  198  nano script1.sh
+  199  ./script1.sh 
+  200  nano script1.sh
+  201  ./script1.sh 
+  202  ./script2.sh 
+  203  nano scrip2.sh
+  204  ./script2.sh 
+  205  chmod +x script2.sh
+  206  ./script2.sh 
+  207  chmod +x script2.sh
+  208  nano scrip2.sh
+  209  chmod +x script2.sh
+  210  ./script2.sh 
+  211  nano script1.sh
+  212  ./script2.sh 
+  213  chmod +x script2.sh
+  214  nano scrip2.sh
+  215  chmod +x script2.sh
+  216  ./script2.sh 
+  217  nano scrip2.sh
+  218  ./script2.sh 
+  219  chmod +x script.sh
+  220  ./script2.sh 
+  221  nano scrip2.sh
+  222  ./script2.sh 
+  223  chmod +x script2.sh
+  224  cd ..
+  225  cd Home
+  226  cd homw
+  227  cd home
+  228  cd /
+  229  cd home
+  230  cd Desktop
+  231  ./script2.sh 
+  232  chmod +x script2.sh
+  233  ./script2.sh 
+  234  cd Desktop
+  235  cd desktop
+  236  nano scrip2.sh
+  237  cd ..
+  238  cd ~
+  239  cd Desktop
+  240  nano tommy.sh
+  241  ./tommy.sh 
+  242  chmod +x tommy.sh
+  243  ./tommy.sh 
+  244  nano tommy.sh
+  245  ./tommy.sh 
+  246  chmod +x tommy.sh
+  247  ./tommy.sh 
+  248  ps
+  249  top
+  250  cd Desktop
+  251  mkdir tomlie
+  252  ls
+  253  \cd Desktop
+  254  ls
+  255  clear
+  256  cd ~
+  257  cd home
+  258  cd Home
+  259  cd DESktop
+  260  cd Desktop
+  261  mkdir cloud_management 
+  262  cd cloud_management
+  263  cd cloud service 
+  264  mkdir cloud_service 
+  265  cd Cloud_service 
+  266  cd cloud_service
+  267  mkdir AWS
+  268  mkdir Azure
+  269  mkdir cloudigital
+  270  mkdir GCP
+  271  mkdir alibaba
+  272  mkdir rishi
+  273  mkdir ragav
+  274  mkdir saran
+  275  mkdir sha 
+  276  mkdir manoj
+  277  mkdir sanjay
+  278  mkdir josh
+  279  cd ..
+  280  cd AWS
+  281  cd cloud service 
+  282  cd cloud_service 
+  283  cd AWS
+  284  touch cloud practioner.txt
+  285  cd ..
+  286  cd Azure 
+  287  touch microsoft.txt
+  288  cd ..
+  289  cd cloudigital
+  290  touch cloud.txt
+  291  cd ..
+  292  cd GCP
+  293  touch google .txt
+  294  cd ..
+  295  cd alibaba
+  296  touch company.txt
+  297  cd ..
+  298  cd rishi 
+  299  touch cr7.txt
+  300  cd ..
+  301  cd ragav
+  302  touch saran.txt
+  303  cd ..
+  304  cd ragav
+  305  touch food.txt
+  306  cd ..
+  307  cd saran
+  308  touch saran.txt
+  309  cd ..
+  310  cd sha 
+  311  touch AIMLtopper.txt
+  312  cd ..
+  313  cd manoj 
+  314  touch cloud trainer.txt
+  315  cd ..
+  316  cd sanjay
+  317  touch friend .txt
+  318  cd ..
+  319  cd josh
+  320  touch reels.txt
+  321  cd ..
+  322  cd GCP 
+  323  google.txt
+  324  touch google.txt
+  325  cd ..
+  326  cd sanjay
+  327  touch friend.txt
+  328  cd ..
+  329  cd AWS
+  330  mv /home/Desktop/cloud_management/cloud_service/AWS/cloud practioner.txt /home/desktop/cloud_management/cloud_service/Azure/microsoft.txt
+  331  mv practioner.txt > Azure microsoft.txt
+  332  cd ..
+  333  cd alibaba
+  334  mv company.txt company.txt
+  335  cat company.txt
+  336  cat company.txt company.txt
+  337  mv company.txt google.txt
+  338  cloud coc.txt
+  339  ls
+  340  cd ..
+  341  pwd 
+  342  ls
+  343  cd cloud_service 
+  344  ls
+  345  cd ..
+  346  touch cloud.config.txt
+  347  ll cloud.config.txt
+  348  chmod 755 cloud.config.txt
+  349  ll cloud.config.txt
+  350  touch cloud config.txt
+  351  cd cloud_service
+  352  cd cloudigital
+  353  cp cloud.config.txt
+  354  cp -r cloud.config.txt
+  355  cp cloud config.txt cloud.txt
+  356  cd ..
+  357  cp cloud config.txt cloud.txt
+  358  cd cloudigital josh
+  359  cp cloudigital josh
+  360  cp cloud config.txt > cloudigital "cloud.txt"
+  361  cp cloud config.txt >  "cloud.txt"
+  362  cp cloud config.txt cloud.txt
+  363  rm azure
+  364  rm Azure
+  365  rm -r cloudigital
+  366  nano script.sh 
+  367  cat script.sh
+  368  nano script.sh 
+  369  ./ script.sh 
+  370  ./script.sh
+  371  chmod +x script.sh
+  372  ./script.sh
+  373  ll script.sh
+  374  chmod 777 script.sh
+  375  ./script.sh
+  376  ./script.sh 
+  377  nano script.sh 
+  378  ./script.sh 
+  379  histroy
+  380  history
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ls
+alibaba  AWS  Azure  cloud.txt  GCP  josh  manoj  ragav  rishi  sanjay  saran  script.sh  sha
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd AWS
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ ls
+microsoft.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ cat microsoft.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ cat > microsoft.txt
+welcome to the scorpio
+^C
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ cat microsoft.txt
+welcome to the scorpio
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ ^C
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service/AWS$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ top
+
+top - 14:40:23 up  4:49,  2 users,  load average: 1.16, 1.08, 1.01
+Tasks: 326 total,   2 running, 324 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.5 us,  0.6 sy,  0.0 ni, 72.7 id,  0.3 wa,  0.0 hi, 24.9 si,  0.0 st
+MiB Mem :   3656.7 total,    330.9 free,   1675.1 used,   1650.7 buff/cache
+MiB Swap:   7720.0 total,   6673.1 free,   1046.9 used.   1267.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                              
+     30 root      20   0       0      0      0 S  68.5   0.0   8:14.27 ksoftirqd/2                                                                                                                          
+     16 root      20   0       0      0      0 R  31.1   0.0   3:46.14 ksoftirqd/0                                                                                                                          
+   9219 adminis+  20   0  562260  55504  44932 S   4.0   1.5   0:47.37 gnome-terminal-                                                                                                                      
+   8053 adminis+  20   0 5352952 279092 132276 S   2.6   7.5   3:28.09 gnome-shell                                                                                                                          
+    713 systemd+  20   0   14968   5980   5844 S   0.3   0.2   0:31.75 systemd-oomd                                                                                                                         
+      1 root      20   0  168404  11972   7944 S   0.0   0.3   0:06.86 systemd                                                                                                                              
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd                                                                                                                             
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_workqueue_release                                                                                                               
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_g                                                                                                                      
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_p                                                                                                                      
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-slub_                                                                                                                      
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-netns                                                                                                                      
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-events_highpri                                                                                                          
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-mm_pe                                                                                                                      
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tasks_kthread                                                                                                                    
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tasks_rude_kthread                                                                                                               
+     15 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tasks_trace_kthread                                                                                                              
+     17 root      20   0       0      0      0 I   0.0   0.0   0:05.18 rcu_preempt                                                                                                                          
+     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.10 migration/0                                                                                                                          
+     19 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                                                                                                        
+     20 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                                                                                                              
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1                                                                                                                              
+     22 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/1                                                                                                                        
+     23 root      rt   0       0      0      0 S   0.0   0.0   0:00.19 migration/1                                                                                                                          
+     24 root      20   0       0      0      0 S   0.0   0.0   7:44.32 ksoftirqd/1                                                                                                                          
+     26 root       0 -20       0      0      0 I   0.0   0.0   0:01.33 kworker/1:0H-kblockd                                                                                                                 
+     27 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                                                                                                              
+     28 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                                                                                                        
+     29 root      rt   0       0      0      0 S   0.0   0.0   0:00.18 migration/2                                                                                                                          
+     32 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-events_highpri                                                                                                          
+     33 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/3                                                                                                                              
+     34 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/3                                                                                                                        
+     35 root      rt   0       0      0      0 S   0.0   0.0   0:00.19 migration/3                                                                                                                          
+     36 root      20   0       0      0      0 S   0.0   0.0   7:32.67 ksoftirqd/3                                                                                                                          
+     38 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/3:0H-events_highpri                                                                                                          
+     39 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kdevtmpfs                                                                                                                            
+     40 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-inet_                                                                                                                      
+     42 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kauditd                                                                                                                              
+     43 root      20   0       0      0      0 S   0.0   0.0   0:00.01 khungtaskd                                                                                                                           
+     44 root      20   0       0      0      0 S   0.0   0.0   0:00.00 oom_reaper                                                                                                                           
+     46 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-write                                                                                                                      
+     47 root      20   0       0      0      0 S   0.0   0.0   0:04.25 kcompactd0                                                                                                                           
+     48 root      25   5       0      0      0 S   0.0   0.0   0:00.00 ksmd                                                                                                                                 
+     49 root      39  19       0      0      0 S   0.0   0.0   0:00.00 khugepaged                                                                                                                           
+     50 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kinte                                                                                                                      
+     51 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kbloc                                                                                                                      
+     52 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-blkcg                                                                                                                      
+     53 root     -51   0       0      0      0 S   0.0   0.0   0:05.65 irq/9-acpi                                                                                                                           
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ll cloud config.txt
+ls: cannot access 'cloud': No such file or directory
+ls: cannot access 'config.txt': No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ ll
+total 56
+drwxrwxr-x 13 administrator administrator 4096 Dec 16 14:34 ./
+drwxrwxr-x  3 administrator administrator 4096 Dec 16 14:19 ../
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 13:59 alibaba/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:51 AWS/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:31 Azure/
+-rw-rw-r--  1 administrator administrator    0 Dec 16 14:21 cloud.txt
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:42 GCP/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:40 josh/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:42 manoj/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:37 ragav/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:33 rishi/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:43 sanjay/
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:38 saran/
+-rwxrwxrwx  1 administrator administrator   64 Dec 16 14:34 script.sh*
+drwxrwxr-x  2 administrator administrator 4096 Dec 16 12:38 sha/
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ nano script 2.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ vim script2.sh
+
+[1]+  Stopped                 vim script2.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat script.sh
+cat: script.sh: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat script2.sh 
+cat: script2.sh: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat script2.sh
+cat: script2.sh: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ vim script2.sh
+
+[2]+  Stopped                 vim script2.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ vim script.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat script2.sh
+cat: script2.sh: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ vim script2.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat script.sh
+REPLACE quick brown fox jumps over REPLACE lazy dogs
+A journey of a thousand miles begins with a single steps
+To  err is human, to forgive drive 
+better late than never but never late is better 
+success usually comes to who are too busy to be looking for it 
+REPLACE early bird catches REPLACE worm,tbut the second mouse gets the chesse
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cd cloud_service 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ grep tom.txt
+toyota script
+toyota supra 
+toyota fortuner 
+
+^C
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cat tom.txt
+cat: tom.txt: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ grep -l tom.txt
+
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ grep tom.txt
+toyota supra
+toyota fortuner 
+toyota crysta 
+
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cat tom.txt
+cat: tom.txt: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management/cloud_service$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tom.txt
+cat: tom.txt: No such file or directory
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat > tom.txt
+toyota supra
+toyota fortuner 
+toyota crysta 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ grep tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tom.txt
+toyota supra
+toyota fortuner 
+toyota crysta 
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ grep -l tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ grep -r -i  -l tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ grep -i "toyotaa" tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ touch tommy.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tommy.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat > tommy.txt
+toyota supra 
+toyota fortuner 
+toyota crystaa
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tommy.txt
+toyota supra 
+toyota fortuner 
+toyota crystaa
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ grep -l tommy.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ chmod 070 tommy.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ ll
+total 48
+drwxrwxr-x  3 administrator administrator  4096 Dec 16 15:20 ./
+drwxr-xr-x  3 administrator administrator  4096 Dec 16 12:24 ../
+-rwxr-xr-x  1 administrator administrator     0 Dec 16 14:03 cloud.config.txt*
+drwxrwxr-x 13 administrator administrator  4096 Dec 16 14:34 cloud_service/
+-rw-------  1 administrator administrator 12288 Dec 16 14:55 .script2.sh.swo
+-rw-------  1 administrator administrator 12288 Dec 16 14:53 .script2.sh.swp
+-rw-rw-r--  1 administrator administrator   337 Dec 16 15:06 script.sh
+----rwx---  1 administrator administrator    46 Dec 16 15:21 tommy.txt*
+-rw-rw-r--  1 administrator administrator    45 Dec 16 15:17 tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tommy.txt
+cat: tommy.txt: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ chmod +X tommy.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ ll
+total 48
+drwxrwxr-x  3 administrator administrator  4096 Dec 16 15:20 ./
+drwxr-xr-x  3 administrator administrator  4096 Dec 16 12:24 ../
+-rwxr-xr-x  1 administrator administrator     0 Dec 16 14:03 cloud.config.txt*
+drwxrwxr-x 13 administrator administrator  4096 Dec 16 14:34 cloud_service/
+-rw-------  1 administrator administrator 12288 Dec 16 14:55 .script2.sh.swo
+-rw-------  1 administrator administrator 12288 Dec 16 14:53 .script2.sh.swp
+-rw-rw-r--  1 administrator administrator   337 Dec 16 15:06 script.sh
+---xrwx--x  1 administrator administrator    46 Dec 16 15:21 tommy.txt*
+-rw-rw-r--  1 administrator administrator    45 Dec 16 15:17 tom.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ cat tommy.txt
+cat: tommy.txt: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:~/project/cloud_management$ d ~
+administrator@administrator-Lenovo-V130-14IKB:~$ cd home
+
+
